@@ -64,9 +64,7 @@ The following Python libraries were used in this project:
 
 The **[Global Superstore](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)** dataset includes transactional data, covering various aspects such as sales, profit, region, product categories, and customer information.
 
-## Contributions
 
-Contributions are welcome to enhance this project. You can open issues for bugs, suggest improvements, or submit pull requests for additional features.
 
 ## License
 
