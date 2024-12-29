@@ -4,6 +4,6 @@
 
 [![SQL](https://github.com/user-attachments/assets/5f93b827-992f-4ae5-a25c-528e9d2a61b6)](https://github.com/MinaRavi/3-Of-My-Skills/blob/main/SQL/README.md)
 
-[![Dashboard](https://github.com/user-attachments/assets/f503d4fa-087e-4792-851d-d564f44e60e0)](https://github.com/MinaRavi/3-Of-My-Skills/blob/main/Dashboard/README.md)
+[![Dashboard](https://github.com/user-attachments/assets/f503d4fa-087e-4792-851d-d564f44e60e0)](https://github.com/MinaRavi/3-Of-My-Skills/blob/main/Dashboard)
 
 I Keep Updating Them...
